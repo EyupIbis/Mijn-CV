@@ -1,2 +1,1 @@
-# Mijn-CV
-create a CV
+Mijn-CV
